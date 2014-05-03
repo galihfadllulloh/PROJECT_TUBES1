@@ -1,7 +1,7 @@
 <?php include "connection.php"; ?>
 <html>
 <head>
-<title>Lembaga Pengembangan PESPARAWI Nasional (LPPN)</title>
+<title>JURUSAN TEKNIK INFORMATIKA</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -23,15 +23,11 @@
         </tr>
         <tr>
           <td width="6%" height="69" align="center" valign="top">&#8226;</td>
-          <td width="94%" valign="top">Jl. Lapangan Banteng Barat No. 3-4<br>
-            Jakarta Pusat 10710<br>
-            Telp. (021) 3811654, 3811779 Ext. 262 </td>
+          <td width="94%" valign="top">Jl Siliwangi 24 RT 003/01, Cikahuripan, Tawang Kota Tasikmalaya Kode pos 46115. <br>
+            Tasikmalaya 46115<br>
+            Telp. 0265 323531 - 0265 323532 - 0265 323534 - 0265 323537 </td>
         </tr>
-        <tr>
-          <td width="6%" align="center" valign="top">&#8226;</td>
-          <td width="94%" valign="top">Jl. Paus No.10, Kel. Rawamangun Kec. Pulogadung <br>
-            Jakarta Timur 13220<br>
-          Telp. (021) 47862645 </td>
+        </td>
         </tr>
     </table></td>
     <td width="160" valign="top"><?php include "rightmenu.php"; ?></td>
