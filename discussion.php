@@ -1,7 +1,7 @@
 <?php include "connection.php"; ?>
 <html>
 <head>
-<title>Lembaga Pengembangan PESPARAWI Nasional (LPPN)</title>
+<title>JURUSAN TEKNIK INFORMATIKA</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -46,7 +46,7 @@
     <td width="170" height="435" valign="top"><?php include "leftmenu.php"; ?></td>
     <td width="468" align="center" valign="top" background="images/bg_center.gif"><table width="96%"  border="0" cellspacing="0" cellpadding="0">
         <tr>
-          <td height="39" valign="top" background="images/bg_header.gif"><h3>DISCUSSION BOARD </h3></td>
+          <td height="39" valign="top" background="images/bg_header.gif"><h3>DISCUSSION INFORMATIKA </h3></td>
         </tr>
         <tr>
           <td><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="table">
