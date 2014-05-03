@@ -1,7 +1,7 @@
 <?php include "connection.php"; ?>
 <html>
 <head>
-<title>Lembaga Pengembangan PESPARAWI Nasional (LPPN)</title>
+<title>JURUSAN TEKNIK INFORMATIKA UNIVERSITAS TASIKMALAYA</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -22,8 +22,8 @@
           <td height="39" valign="top" background="images/bg_header.gif"><h3>NEWS</h3></td>
         </tr>
         <tr>
-          <td valign="top"><div align="justify"><span class="headline">KISAH SEJATI SEORANG KAKA</span><br>
-            Lahir di Brasilia tahun 1982 dengan nama Ricardo Izecson dos Santos Leite, Kaka lahir dari sebuah keluarga penginjil yang kaya raya. Namun hal itu tidak membuat ia menjadi sombong dengan mengandalkan kekayaan keluarganya, ataupun mengikuti jalan hidup keluarganya dengan menjadi penginjil. Kaka punya jalannya sendiri dan caranya sendiri. <a href="shownews.php" class="left-text">[selengkapnya...]</a> <br>
+          <td valign="top"><div align="justify"><span class="headline">Perbedaan Jurusan Ilmu Komputer, Teknik Informatika, Sistem Informasi dan Teknik</span><br>
+            Pertama, Jurusan Ilmu Komputer itu adalah jurusan yang mempelajari segala hal yang berkaitan dengan komputer, baik dari segi Hardware maupun softwarenya.Bagi yang berminat di bidang Hardware lebih baik mengambil jurusan teknik komputer, sedangkan bagi yang lebih berminat pada bidang software dapat memperdalam di jurusan Teknik Informatika.. <a href="shownews.php" class="left-text">[selengkapnya...]</a> <br>
             ..............................................................................................................
           </div></td>
         </tr>
