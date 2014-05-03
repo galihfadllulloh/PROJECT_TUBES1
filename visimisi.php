@@ -1,7 +1,7 @@
 <?php include "connection.php"; ?>
 <html>
 <head>
-<title>Lembaga Pengembangan PESPARAWI Nasional (LPPN)</title>
+<title>JURUSAN TEKNIK INFORMATIKA</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -27,7 +27,7 @@
               <tr>
                 <td width="100%" align="left" valign="top"> <div align="justify"> VISI LPPN : </div></td>
                 </tr><tr>
-                <td align="left" valign="top"> <div align="justify">Terwujudnya sikap dan penampilan umat Kristen sebagai teladan dalam memuji dan memuliakan Tuhan melalui suara yang berkumandang, harmonis dan merdu sebagai wujud ibadah kepada ALLAH
+                <td align="left" valign="top"> <div align="justify">Sebagai Program Studi unggulan dalam pengembangan iptek di bidang teknik informatika yang menjunjung tinggi nilai-nilai Teknologi
                 </div>                  <div align="justify"></div></td>
                 </tr>
             </table>
@@ -37,27 +37,18 @@
                 <td colspan="2" align="left" valign="top"> <div align="justify"> MISI LPPN : </div></td>
                 </tr><tr>
                 <td width="5%" align="left" valign="top">a.</td>
-                <td width="95%" valign="top"> <div align="justify"> Membina dan melestarikan seni budaya yang bernafaskan keagamaan Kristen.</div></td>
+                <td width="95%" valign="top"> <div align="justify"> Merekonstruksi dan mengembangkan iptek bidang teknik informatika.</div></td>
               </tr>
               <tr>
                 <td align="left" valign="top">b.</td>
-                <td valign="top"><div align="justify"> Membina dan memelihara kebersamaan, rasa persaudaraan dan kerukunan umat Kristiani.</div></td>
+                <td valign="top"><div align="justify"> Mendidik dan mengembangkan sumber daya manusia pada pendidikan tinggi teknik informatika.</div></td>
               </tr>
               <tr>
                 <td align="left" valign="top">c.</td>
-                <td valign="top"><div align="justify"> Memperkokoh dan meningkatkan kualitas iman umat Kristiani melalui puji-pujian kepada Tuhan.</div></td>
+                <td valign="top"><div align="justify"> Mengembangkan gagasan, kegiatan dan kelembagaan sesuai dengan pengembangan dan rekonstruksi ilmu teknik informatika.</div></td>
               </tr>
               <tr>
-                <td align="left" valign="top">d.</td>
-                <td valign="top"><div align="justify"> Menjadikan PESPARAWI sebagai wujud kesaksian dan wujud partisipasi umat Kristiani dalam pembangunan.</div></td>
-              </tr>
-              <tr>
-                <td align="left" valign="top">e.</td>
-                <td valign="top"><div align="justify"> Membina dan mengembangkan kreativitas musisi dan komponis Kristen serta terjadinya pengkaderan.</div></td>
-              </tr>
-              <tr>
-                <td align="left" valign="top">f.</td>
-                <td valign="top"><div align="justify"> Menjadikan event PESPARAWI sebagai sarana untuk mewujudkan kerukunan dan harmonisasi kehidupan internal dan antara umat beragama.</div></td>
+       </div></td>
               </tr>
             </table>
 			</div></td>
